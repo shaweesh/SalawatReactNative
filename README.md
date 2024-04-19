@@ -15,40 +15,46 @@ Getting Started
 1.  **Install Node.js and npm**: Download and install the latest version of Node.js and npm from [Node.js](https://nodejs.org/en/download/).
 2.  **Clone the repository**: Clone the Salawat React Native repository to your local machine using the following command:
     
-    bash
+    ```bash
     
-    `git clone https://github.com/shaweesh/SalawatReactNative.git`
+    git clone https://github.com/shaweesh/SalawatReactNative.git
+    ```
     
 3.  **Install dependencies**: Navigate to the project directory and install the required dependencies using the following command:
     
-    bash
+    ```bash
     
-    `npm install`
+    npm install
+    ```
     
 4.  **Link native modules**: Link the required native modules to the project using the following command:
     
-    bash
+    ```bash
     
-    `npx react-native link`
+    npx react-native link
+    ```
     
 5.  **Start the development server**: Start the development server using the following command:
     
-    bash
+    ```bash
     
-    `npm start`
+    npm start
+    ```
     
 6.  **Run the application**: Run the application on your desired platform using the following command:
     *   **iOS**:
         
-        bash
+        ```bash
         
-        `npx react-native run-ios`
+        npx react-native run-ios
+        ```
         
     *   **Android**:
         
-        bash
+        ```bash
         
-        `npx react-native run-android`
+        npx react-native run-android
+        ```
         
 
 Dependencies
